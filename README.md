@@ -1,16 +1,18 @@
-## Hi there 👋
+Roshan Jajware
 
-<!--
-**RoshanJajware/RoshanJajware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ AWS | 🔧 DevOps | 
 
-Here are some ideas to get you started:
+💡 Empowering Cloud enthusiasts with hands-on AWS & DevOps 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Feature 1: 6 years of experience
+- Feature 2: BCA | MBA 
+- Feature 3: Cloud | DevOps
+
+🛠️ My Tech Stack
+AWS Git GitHub Jenkins Maven Nexus JFrog Docker Kubernetes Docker Scout Ansible Terraform SonarQube Trivy OWASP Prometheus Grafana Tomcat Nginx JIRA HTML Python 
+
+Connect With Me
+📧 Email: jajware.roshanraj@gmail.com
+👔 LinkedIn: www.linkedin.com/in/roshanrajjajware
